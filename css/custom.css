@@ -1,0 +1,12 @@
+body {
+	background-color:yellow;
+}
+
+.jumbotron h1, .jumbotron p {
+    color: teal;
+}
+
+a.btn.btn-primary.btn-lg {
+    background-color: teal; 
+    border-radius: 0px;
+}
